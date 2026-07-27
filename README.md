@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vanshikacs/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/vanshikacs/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/vanshikacs/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/vanshikacs/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/vanshikacs/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vanshikacs/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshikacs/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
 | ------- |
+| [1773-count-items-matching-a-rule](https://github.com/vanshikacs/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vanshikacs/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshikacs/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
