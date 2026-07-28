@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vanshikacs/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vanshikacs/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/vanshikacs/DSA/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vanshikacs/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/vanshikacs/DSA/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
