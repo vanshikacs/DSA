@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vanshikacs/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vanshikacs/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vanshikacs/DSA/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/vanshikacs/DSA/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/vanshikacs/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/vanshikacs/DSA/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshikacs/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -76,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/vanshikacs/DSA/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/vanshikacs/DSA/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/vanshikacs/DSA/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/vanshikacs/DSA/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/vanshikacs/DSA/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -94,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/vanshikacs/DSA/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vanshikacs/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
