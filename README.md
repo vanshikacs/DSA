@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshikacs/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshikacs/DSA/tree/master/0027-remove-element) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshikacs/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/vanshikacs/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vanshikacs/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanshikacs/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vanshikacs/DSA/tree/master/0283-move-zeroes) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vanshikacs/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
