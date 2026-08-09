@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshikacs/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanshikacs/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vanshikacs/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vanshikacs/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vanshikacs/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/vanshikacs/DSA/tree/master/0561-array-partition) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshikacs/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanshikacs/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vanshikacs/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vanshikacs/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshikacs/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshikacs/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanshikacs/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vanshikacs/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vanshikacs/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/vanshikacs/DSA/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/vanshikacs/DSA/tree/master/0905-sort-array-by-parity) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vanshikacs/DSA/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/vanshikacs/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vanshikacs/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/vanshikacs/DSA/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshikacs/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
