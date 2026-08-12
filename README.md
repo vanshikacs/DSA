@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vanshikacs/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/vanshikacs/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vanshikacs/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/vanshikacs/DSA/tree/master/0383-ransom-note) |
 | [0709-to-lower-case](https://github.com/vanshikacs/DSA/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/vanshikacs/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vanshikacs/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vanshikacs/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vanshikacs/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/vanshikacs/DSA/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vanshikacs/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshikacs/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vanshikacs/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/vanshikacs/DSA/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vanshikacs/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/vanshikacs/DSA/tree/master/1512-number-of-good-pairs) |
 ## Sorting
