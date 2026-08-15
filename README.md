@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vanshikacs/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vanshikacs/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/vanshikacs/DSA/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/vanshikacs/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vanshikacs/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/vanshikacs/DSA/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshikacs/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/vanshikacs/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
