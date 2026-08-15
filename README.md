@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vanshikacs/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshikacs/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/vanshikacs/DSA/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshikacs/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vanshikacs/DSA/tree/master/1512-number-of-good-pairs) |
 ## Array
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vanshikacs/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vanshikacs/DSA/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/vanshikacs/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vanshikacs/DSA/tree/master/0303-range-sum-query-immutable) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vanshikacs/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
