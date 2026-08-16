@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vanshikacs/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/vanshikacs/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshikacs/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vanshikacs/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vanshikacs/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vanshikacs/DSA/tree/master/0485-max-consecutive-ones) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vanshikacs/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vanshikacs/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshikacs/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vanshikacs/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshikacs/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vanshikacs/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vanshikacs/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshikacs/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vanshikacs/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vanshikacs/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vanshikacs/DSA/tree/master/0561-array-partition) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vanshikacs/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vanshikacs/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshikacs/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vanshikacs/DSA/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/vanshikacs/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/vanshikacs/DSA/tree/master/0905-sort-array-by-parity) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vanshikacs/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vanshikacs/DSA/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshikacs/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vanshikacs/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/vanshikacs/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
