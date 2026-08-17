@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vanshikacs/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/vanshikacs/DSA/tree/master/0905-sort-array-by-parity) |
 | [1002-find-common-characters](https://github.com/vanshikacs/DSA/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/vanshikacs/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshikacs/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vanshikacs/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vanshikacs/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshikacs/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/vanshikacs/DSA/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/vanshikacs/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vanshikacs/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshikacs/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
