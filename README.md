@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vanshikacs/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vanshikacs/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/vanshikacs/DSA/tree/master/0905-sort-array-by-parity) |
+| [1002-find-common-characters](https://github.com/vanshikacs/DSA/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshikacs/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vanshikacs/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/vanshikacs/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/vanshikacs/DSA/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/vanshikacs/DSA/tree/master/0844-backspace-string-compare) |
+| [1002-find-common-characters](https://github.com/vanshikacs/DSA/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/vanshikacs/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vanshikacs/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanshikacs/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshikacs/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vanshikacs/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshikacs/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1002-find-common-characters](https://github.com/vanshikacs/DSA/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vanshikacs/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vanshikacs/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshikacs/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
