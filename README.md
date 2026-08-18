@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vanshikacs/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshikacs/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vanshikacs/DSA/tree/master/0069-sqrtx) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vanshikacs/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshikacs/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vanshikacs/DSA/tree/master/1512-number-of-good-pairs) |
 ## Array
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/vanshikacs/DSA/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/vanshikacs/DSA/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/vanshikacs/DSA/tree/master/1002-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vanshikacs/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/vanshikacs/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vanshikacs/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanshikacs/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vanshikacs/DSA/tree/master/0069-sqrtx) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vanshikacs/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vanshikacs/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
